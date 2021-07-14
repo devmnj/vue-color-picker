@@ -1,9 +1,10 @@
 {
   "name": "@manojap/vue-color-picker",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A volor picker componetn for Vue",
 "author": "Manoj",
 "license": "MIT",
+"keywords": ["color-picker","color","CSS","vuejs","vue-components"],
 "repository": {
   "url": "git://github.com/manojap/vue-color-picker.git"
 },
